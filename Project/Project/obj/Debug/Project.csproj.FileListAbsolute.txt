@@ -1,0 +1,15 @@
+D:\SemVIProject\Project\Project\bin\Debug\Project.exe.config
+D:\SemVIProject\Project\Project\obj\Debug\Project.Login.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\SemVIProject\Project\Project\bin\Debug\Project.exe
+D:\SemVIProject\Project\Project\bin\Debug\Project.pdb
+D:\SemVIProject\Project\Project\obj\Debug\Project.exe
+D:\SemVIProject\Project\Project\obj\Debug\Project.pdb
+D:\SemVIProject\Project\Project\obj\Debug\Project.Home.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.DuluxPaints.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.NerolacPaints.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.SoldierPaints.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.CustomerMaster.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.Accessories.resources
+D:\SemVIProject\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache

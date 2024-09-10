@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{023177E8-4FE2-4A17-85F7-428697F27880}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PaintShopMgt</RootNamespace>
+    <AssemblyName>PaintShopMgt</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CompanyMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyMaster.Designer.cs">
+      <DependentUpon>CompanyMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerMaster.Designer.cs">
+      <DependentUpon>CustomerMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsCompany.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCompany.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsCustomer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCustomer.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsProduct.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsProduct.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dsReport.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmrptCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrptCompany.Designer.cs">
+      <DependentUpon>frmrptCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmrptCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrptCustomer.Designer.cs">
+      <DependentUpon>frmrptCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmrptProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrptProduct.Designer.cs">
+      <DependentUpon>frmrptProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmrptRecipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmrptRecipt.Designer.cs">
+      <DependentUpon>frmrptRecipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice.Designer.cs">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductMaster.Designer.cs">
+      <DependentUpon>ProductMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Supplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supplier.Designer.cs">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CompanyMaster.resx">
+      <DependentUpon>CompanyMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerMaster.resx">
+      <DependentUpon>CustomerMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrptCompany.resx">
+      <DependentUpon>frmrptCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrptCustomer.resx">
+      <DependentUpon>frmrptCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrptProduct.resx">
+      <DependentUpon>frmrptProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmrptRecipt.resx">
+      <DependentUpon>frmrptRecipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice.resx">
+      <DependentUpon>Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductMaster.resx">
+      <DependentUpon>ProductMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCompany.rdlc" />
+    <EmbeddedResource Include="rptCustomer.rdlc" />
+    <EmbeddedResource Include="rptProduct.rdlc" />
+    <EmbeddedResource Include="rptRecipt.rdlc" />
+    <EmbeddedResource Include="Supplier.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="dsCompany.xsc">
+      <DependentUpon>dsCompany.xsd</DependentUpon>
+    </None>
+    <None Include="dsCompany.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCompany.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsCompany.xss">
+      <DependentUpon>dsCompany.xsd</DependentUpon>
+    </None>
+    <None Include="dsCustomer.xsc">
+      <DependentUpon>dsCustomer.xsd</DependentUpon>
+    </None>
+    <None Include="dsCustomer.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCustomer.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsCustomer.xss">
+      <DependentUpon>dsCustomer.xsd</DependentUpon>
+    </None>
+    <None Include="dsProduct.xsc">
+      <DependentUpon>dsProduct.xsd</DependentUpon>
+    </None>
+    <None Include="dsProduct.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsProduct.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsProduct.xss">
+      <DependentUpon>dsProduct.xsd</DependentUpon>
+    </None>
+    <None Include="dsReport.xsc">
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </None>
+    <None Include="dsReport.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsReport.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="dsReport.xss">
+      <DependentUpon>dsReport.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\Eye11 %281%29.jpg" />
+    <None Include="Resources\Eye11 %281%291.jpg" />
+    <None Include="Resources\EyeImg %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\cancel.png" />
+    <Content Include="Images\EyeImg %281%29.jpg" />
+    <Content Include="Images\img3.jfif" />
+    <Content Include="Images\log.jpg" />
+    <Content Include="Images\login.jfif" />
+    <Content Include="Images\pw.jpeg" />
+    <Content Include="Images\username.jpg" />
+    <None Include="Resources\Place-of-Supply-for-Goods.jpg" />
+    <None Include="Resources\download.jfif" />
+    <None Include="Resources\credit-card-reader.jpg" />
+    <None Include="Resources\generate.jpg" />
+    <None Include="Resources\cancelpro.jpg" />
+    <None Include="Resources\add.png" />
+    <None Include="Resources\img2.jfif" />
+    <None Include="Resources\img4.jfif" />
+    <None Include="Resources\custBack.jpg" />
+    <None Include="Resources\istockphoto-909271534-612x612.jpg" />
+    <None Include="Resources\search.jpg" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\clear.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\save.png" />
+    <None Include="Resources\rpt.jpg" />
+    <None Include="Resources\report.jpg" />
+    <None Include="Resources\suplier.png" />
+    <None Include="Resources\sss.png" />
+    <None Include="Resources\invoiceimg.jpg" />
+    <None Include="Resources\Cmp.jpg" />
+    <None Include="Resources\pppp.jpg" />
+    <None Include="Resources\Product.png" />
+    <None Include="Resources\cccc.png" />
+    <None Include="Resources\Customer.png" />
+    <None Include="Resources\pro.png" />
+    <None Include="Resources\custRegi.png" />
+    <None Include="Resources\Customer.jpg" />
+    <None Include="Resources\datetime.png" />
+    <None Include="Resources\cancel.png" />
+    <None Include="Resources\log.jpg" />
+    <None Include="Resources\pw.jpeg" />
+    <None Include="Resources\username.jpg" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\img3.jfif" />
+    <None Include="Resources\login.jfif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,87 @@
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe.config
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CompanyMaster.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Properties.Resources.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csproj.GenerateResource.Cache
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.pdb
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.exe
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.pdb
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.ProductMaster.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CustomerMaster.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Login.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Home.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Invoice.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCustomer.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.cache
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.compiled
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptProduct.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptRecipt.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csprojResolveAssemblyReference.cache
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Supplier.resources
+D:\SemVIProject\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCompany.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe.config
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.exe
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.pdb
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.pdb
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csprojResolveAssemblyReference.cache
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CompanyMaster.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CustomerMaster.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCompany.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCustomer.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptProduct.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptRecipt.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Home.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Invoice.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Login.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.ProductMaster.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Properties.Resources.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Supplier.resources
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csproj.GenerateResource.Cache
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.cache
+D:\Paint Shop Mgt C# Project\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.compiled
+F:\C#Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe.config
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.exe
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.pdb
+F:\C#Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe
+F:\C#Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.pdb
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csprojResolveAssemblyReference.cache
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CompanyMaster.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CustomerMaster.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCompany.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCustomer.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptProduct.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptRecipt.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Home.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Invoice.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Login.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.ProductMaster.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Properties.Resources.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Supplier.resources
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csproj.GenerateResource.Cache
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.cache
+F:\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.compiled
+F:\Projects\C#Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe.config
+F:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.exe
+F:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.pdb
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe.config
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.exe
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.pdb
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.exe
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\bin\Debug\PaintShopMgt.pdb
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csprojResolveAssemblyReference.cache
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CompanyMaster.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.CustomerMaster.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCompany.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptCustomer.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptProduct.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.frmrptRecipt.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Home.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Invoice.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Login.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.ProductMaster.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Properties.Resources.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.Supplier.resources
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\PaintShopMgt.csproj.GenerateResource.Cache
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.cache
+D:\Projects\C#Project\PaintShopMgt\PaintShopMgt\obj\Debug\RdlCompile.compiled
